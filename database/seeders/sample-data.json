@@ -1,0 +1,544 @@
+{
+  "event_name": "QUIZ_FINISHED",
+  "data": {
+    "id": "3d30ade1-e8ad-4334-83c9-ef34a0a20148",
+    "status": "Finished",
+    "key": "6814d970143e1876465766",
+    "first_name": "Steven",
+    "last_name": "Oddy",
+    "full_name": "Steven Oddy",
+    "email": "steven@scoreapp.com",
+    "started_at": "2025-05-02T14:40:48.000Z",
+    "opt_in": true,
+    "opt_in_detail": "Implied",
+    "utm_source": null,
+    "utm_campaign": null,
+    "utm_medium": null,
+    "utm_term": null,
+    "utm_content": null,
+    "ip_address": "81.132.250.92",
+    "ip_address_country": "United Kingdom",
+    "lead_form_questions": [
+      {
+        "id": "45c44db1-12a8-48c4-b891-52853640cc8d",
+        "question": "Phone Number",
+        "answers": [
+          {
+            "answer": "+440000000000",
+            "answer_value": "+440000000000"
+          }
+        ]
+      },
+      {
+        "id": "01b77a84-962b-4bda-bba9-0ba35a271efe",
+        "question": "Country",
+        "answers": [
+          {
+            "answer": "United Kingdom",
+            "answer_value": "United Kingdom"
+          }
+        ]
+      }
+    ],
+    "quiz_questions": [
+      {
+        "id": "d9ed75a1-132b-4eb4-8292-814eff23f1ef",
+        "question": "Is it hard for you to write about your business or industry?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "eb362e5e-6702-4c22-8b34-24dde16618f4",
+        "question": "Do other people write or blog about you and your business in a positive way?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "7131d6e8-726a-411b-9d6e-15c6eedab049",
+        "question": "Does your business/division have revenue of more than $150,000 per year?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "b137c978-72d1-4439-a7b5-c76123b69b85",
+        "question": "Could you raise over $250K (investment / debt / savings / budget) in under 60 days?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "3535a0c3-3827-4a32-bd76-15bb9daddc33",
+        "question": "Have you written a blog, article or report in the last month?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "7c726e36-3cc4-48e2-90b9-324eac240268",
+        "question": "Do you have well known personalities or brands endorsing you?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "aaee4810-96d5-48de-a634-7ad96034eb1e",
+        "question": "Do others invest time and money into the growth of your business?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "79396970-cb43-41ce-9b7f-aea2a3d8e494",
+        "question": "Have you won a respected award for what you do?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "a6e5d19d-4d4b-49f6-a75b-aeabe74057d3",
+        "question": "Are some people bored or confused when you talk about what you do?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "180cc754-2dd1-476f-afb0-bc61fa28c171",
+        "question": "Are you mostly trading your time for money?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "254c724f-3dbc-420c-afb4-5fdd4f876f1d",
+        "question": "Can you clearly articulate your businesses big vision without people thinking it's strange?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "5cb606d7-176c-42d6-9104-788df223cc92",
+        "question": "Can you easily sell and deliver a product to someone living overseas?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "58653a89-4a80-4ba5-93bc-98e90bf1eff1",
+        "question": "Have you authored a book or written articles in a respected industry publication?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "aabf8dcc-0d70-427b-a47f-f6ec1febeb0f",
+        "question": "If someone Googled your name, would they find most of page 1 is positive links featuring you?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "cfb3e343-6e64-4cca-aea5-2df992209d09",
+        "question": "Do you have videos on the web that feature you in a positive way?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "5345d14f-92a0-40c3-b843-a0b5c26ddedc",
+        "question": "Is your business profitable after you take a reasonable personal income from it?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "75d4ef1d-eef2-4220-90bb-aca6c821e7df",
+        "question": "Have other people been trained how to pitch your business correctly?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "9af88733-f750-4a12-9e9c-9770fc72379e",
+        "question": "Have you got several active social media profiles with over 1000 followers?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "e4e2785e-b20b-4604-8886-4f45fc399684",
+        "question": "When asked \"what do you do?\" have you prepared a compelling response for you and your team?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "5a43cb31-6536-4a30-8341-898bc1f3f6bc",
+        "question": "Do you feel like you do everything on your own with little support?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "dc3df531-7e30-4ed0-8351-a16709d3ad1a",
+        "question": "Do you have a product, service or offer that sells for more than USD$1500?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "5331ae7e-dda5-4454-925e-ad983bf8c7ad",
+        "question": "Do you give talks, trainings, presentations, speeches, etc?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "62670ebb-5e24-4301-b0ee-60eb74b6e724",
+        "question": "Are you featured in the media more than a few times each year?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "34461fa7-7ec9-4cd8-9aca-5aec8c2eba1b",
+        "question": "Have you recently had any of your work published in the press?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "d7552fbf-6277-4ef4-8e09-909ea11c1768",
+        "question": "Do you operate a business in several countries?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "0207ce0c-983b-478f-9a29-7b3d1eafe738",
+        "question": "Do you invest in ongoing training and development for you and your team?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "f0541b0c-0c87-43af-a139-de8b304a4223",
+        "question": "Would you feel confident doing a 30 minute pitch for a big deal in a week from now?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "8e2ad613-0b0d-4143-b3f9-54eb6fd0255c",
+        "question": "Have you ever published academic papers relevant to your industry?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "c1845b45-d5f9-4d30-a03d-9f06f4120971",
+        "question": "Would you convince a stranger that you are credible in your industry in under 30 seconds?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "b8f6f857-ff1d-49f2-a0a0-b695844f57b7",
+        "question": "Do you actively refer your clients to other appropriate suppliers?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "113c1b73-0fbc-45f3-998e-4a773a4a5223",
+        "question": "Have you got active referral partnerships that send business your way?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "f217e479-7900-472b-90c1-b2290b13f2f0",
+        "question": "Do you have several products and services available to sell right now?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "02253280-c51d-4d63-b9ab-2e7823a5c009",
+        "question": "Can you take 8 weeks of holidays each year without your business suffering?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "82f55195-74a3-42d3-b103-22e86a13ec19",
+        "question": "Do you have more than 3 full time staff working in your business?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "aa798e9f-b28b-4fa1-83e7-bc4cabdff068",
+        "question": "Do you have products available to buy from a website?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "6426b8ac-b8da-4aec-99b3-c12ff2885927",
+        "question": "Do you have a free product?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      },
+      {
+        "id": "612b1f0f-e62c-4b67-b0c8-4077532cadcb",
+        "question": "Do you have written agreements with your strategic partnerships?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "4cfe027d-068c-41a2-96f8-eedc366265e4",
+        "question": "Do you have written case-studies and testimonials showcasing your work?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "98d7451d-3af5-4345-928f-6d0d88380f9c",
+        "question": "Do you feel like you're overlooked despite having a lot of value to offer?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "485fc673-32f9-45e5-9092-baf49c7bcd97",
+        "question": "Do you have professionally designed brochures and webpages for your products/services?",
+        "answers": [
+          {
+            "answer": "Yes",
+            "answer_value": "Yes"
+          }
+        ]
+      },
+      {
+        "id": "ee9fa2f4-fd2a-4023-a2b1-61a9dee57d57",
+        "question": "Do you consider yourself to be highly rewarded financially for your industry?",
+        "answers": [
+          {
+            "answer": "No",
+            "answer_value": "No"
+          }
+        ]
+      }
+    ],
+    "finished_at": "2025-05-02T14:44:02.000Z",
+    "report": "https://scorecard.dent.global/results/6814d970143e1876465766/pdf",
+    "result_url": "https://scorecard.dent.global/results/6814d970143e1876465766",
+    "lowest_category": {
+      "id": "a07cd4cc-ab84-4999-9b32-a7d2e73527a8",
+      "title": "Publish"
+    },
+    "highest_category": {
+      "id": "2bbcc6bb-c2b4-4ee3-b445-95de98958514",
+      "title": "Product"
+    },
+    "total_score": {
+      "actual": "34.25",
+      "percent": 36,
+      "denominator10": 3.56,
+      "tier": "Low to Average Strength",
+      "category": null
+    },
+    "category_scores": [
+      {
+        "actual": "2.25",
+        "percent": 21,
+        "denominator10": 2.14,
+        "tier": "Low Strength",
+        "category": {
+          "id": "641740ed-6120-4a5c-b1f5-1936be8e4ab0",
+          "title": "Profile"
+        }
+      },
+      {
+        "actual": "1.25",
+        "percent": 12,
+        "denominator10": 1.22,
+        "tier": "Low Strength",
+        "category": {
+          "id": "3faca624-d9d9-45aa-b375-8011b668ba76",
+          "title": "Pitching"
+        }
+      },
+      {
+        "actual": "6.00",
+        "percent": 59,
+        "denominator10": 5.85,
+        "tier": "Average to High Strength",
+        "category": {
+          "id": "60a574d7-636c-4187-a531-b0e0cda9e032",
+          "title": "Partnership"
+        }
+      },
+      {
+        "actual": "-0.75",
+        "percent": 0,
+        "denominator10": -0.73,
+        "tier": "Low Strength",
+        "category": {
+          "id": "a07cd4cc-ab84-4999-9b32-a7d2e73527a8",
+          "title": "Publish"
+        }
+      },
+      {
+        "actual": "8.00",
+        "percent": 76,
+        "denominator10": 7.62,
+        "tier": "Average to High Strength",
+        "category": {
+          "id": "2bbcc6bb-c2b4-4ee3-b445-95de98958514",
+          "title": "Product"
+        }
+      }
+    ],
+    "audiences": [
+      {
+        "id": "9b9fa668-8ab4-4d62-bf13-79209fbe7425",
+        "name": "Key Qualifier: Is an employer"
+      },
+      {
+        "id": "2b41f762-15ea-40f0-a634-2ab7593357bb",
+        "name": "Qualified + Specific 'P' Challenge: Pitch"
+      },
+      {
+        "id": "fa38e7d9-e3db-4724-8e00-bff3e403c7ad",
+        "name": "Qualified + Specific 'P' Challenge: Publish"
+      },
+      {
+        "id": "78bee452-f4d5-4a34-9612-c1d275a015dd",
+        "name": "Qualified + Specific 'P' Challenge: Profile"
+      }
+    ]
+  }
+}
